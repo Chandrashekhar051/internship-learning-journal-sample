@@ -101,7 +101,9 @@ sudo apt upgrade -y
 
 Installed UV:
 
-pip install uv  
+pip install uv 
+or
+curl -LsSf https://astral.sh/uv/install.sh | sh
 
 Verified installation:
 
@@ -182,4 +184,4 @@ llm chat -m gpt-4
 - Installed and configured LLM CLI.
 - Set up API keys securely.
 - Executed GPT and Gemini models from the terminal.
--
+
