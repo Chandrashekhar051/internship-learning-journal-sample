@@ -1,6 +1,6 @@
-# 🛠 Development Environment Setup on macOS
+#  Development Environment Setup on macOS
 
-## 📌 Overview
+## Overview
 
 In this session, I set up a complete CLI-based development environment on macOS. The focus was on creating a clean, reproducible workflow using Homebrew for package management, UV for Python project handling, GitHub CLI for repository management, and the LLM command-line tool for interacting with AI models directly from the terminal.
 
@@ -8,7 +8,7 @@ This setup emphasizes working efficiently from the terminal instead of relying o
 
 ---
 
-## ⚙️ Homebrew Installation
+## 1.Homebrew Installation
 
 Homebrew acts as a package manager for macOS. It simplifies installing developer tools and managing dependencies.
 
@@ -20,7 +20,7 @@ After installation, Homebrew manages system-level developer tools.
 
 ---
 
-## 🔧 GitHub CLI Installation
+## 2.GitHub CLI Installation
 
 Instead of creating repositories manually in the browser, GitHub CLI allows managing GitHub directly from the terminal.
 
@@ -32,7 +32,7 @@ This enables authentication, repository creation, pull requests, and other GitHu
 
 ---
 
-## 🐍 Managing Python Dependencies with UV
+## 3.Managing Python Dependencies with UV
 
 UV is a fast Python package and environment manager. It improves dependency resolution and virtual environment management.
 
@@ -46,7 +46,7 @@ This shows how packages can be removed efficiently from a project environment.
 
 ---
 
-## 🤖 Installing LLM Command-Line Tool
+## 4.Installing LLM Command-Line Tool
 
 The LLM CLI tool allows interaction with large language models directly from the terminal.
 
@@ -58,7 +58,7 @@ brew install llm
 
 ---
 
-## 🔑 Configuring API Access
+## 4.Configuring API Access
 
 To use the LLM tool, an API key must be configured.
 
@@ -76,7 +76,7 @@ This connects the CLI tool to the appropriate API endpoint.
 
 ---
 
-## 💬 Running Prompts from Terminal
+## 5.Running Prompts from Terminal
 
 Once configured, prompts can be executed directly:
 
@@ -89,7 +89,7 @@ This demonstrates how AI responses can be generated without leaving the terminal
 
 ---
 
-## 🚀 Key Learnings
+## Key Learnings
 
 - Homebrew simplifies developer tool installation.
 - GitHub CLI enables full GitHub workflow from terminal.
