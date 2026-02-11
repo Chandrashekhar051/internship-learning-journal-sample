@@ -124,11 +124,11 @@ deactivate
 
 Installed LLM using UV:
 
-uv pip install llm  
+uv tool install llm  
 
 Verified installation:
 
-llm --help  
+llm --version 
 
 Checked plugins:
 
@@ -137,6 +137,10 @@ llm plugins
 ---
 
 ## 8. Setting API Keys
+
+Installs llm-gemini:
+
+llm install llm-gemini
 
 Set Gemini API key:
 
