@@ -1,8 +1,8 @@
 # Internship Learning Journal  
-**Name:** Chandrashekhar Umesh Mannur 
-**USN:** 2BL22CS051
-**GitHub Username:** Chandrashekhar051
-**Department:** CSE   
+**Name:** Chandrashekhar Umesh Mannur     
+**USN:** 2BL22CS051      
+**GitHub Username:** Chandrashekhar051   
+**Department:** CSE     
 **Internship Start Date:** 03-02-2026
 
 ---
