@@ -115,7 +115,7 @@ Project 1 helped me understand how to containerize and run Jupyter Lab using Pod
 
 ---
 
-# Project 2: Containerizing Ollama for Local LLM
+## Project 2: Containerizing Ollama for Local LLM
 
 ### 1. Running Ollama Container
 
@@ -145,7 +145,7 @@ Verified model interaction inside container terminal.
 
 ---
 
-# Project 3: Podman Networking (Inter-Container Communication)
+## Project 3: Podman Networking (Inter-Container Communication)
 
 ### 1. Creating a Custom Network
 
@@ -196,7 +196,7 @@ http://ollama:11434/api/chat
 
 ---
 
-# API Calls Between Containers
+## API Calls Between Containers
 
 Inside Jupyter Notebook:
 
@@ -226,7 +226,7 @@ This demonstrates inter-container API communication.
 
 ---
 
-# Building a Flask Web App with LLM Backend
+## Building a Flask Web App with LLM Backend
 
 Ran a Flask-based application container:
 
@@ -243,7 +243,7 @@ User → Flask App → Ollama Container → Model Response → Flask → Browser
 
 ---
 
-# Troubleshooting WSL Networking
+## Troubleshooting WSL Networking
 
 Issues handled:
 - Port binding conflicts
@@ -253,7 +253,7 @@ Issues handled:
 
 ---
 
-# Key Learnings from Project 2 & 3
+## Key Learnings from Project 2 & 3
 
 - Running Local LLM using Ollama inside container
 - Pulling and executing Gemma model
@@ -264,6 +264,7 @@ Issues handled:
 - Full-stack containerized architecture
 
 This session helped me understand how multiple containers communicate and how to build an AI-powered web application using Podman.
+
 
 
 
