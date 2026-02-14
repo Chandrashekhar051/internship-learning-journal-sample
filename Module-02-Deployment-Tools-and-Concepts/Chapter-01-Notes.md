@@ -139,7 +139,7 @@ ollama
 
 Pulled and ran Gemma model inside container:
 
-ollama run gemma:2b
+ollama run gemma3:270m
 
 Verified model interaction inside container terminal.
 
@@ -264,5 +264,6 @@ Issues handled:
 - Full-stack containerized architecture
 
 This session helped me understand how multiple containers communicate and how to build an AI-powered web application using Podman.
+
 
 
