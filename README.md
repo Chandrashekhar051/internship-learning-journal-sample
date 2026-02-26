@@ -70,8 +70,8 @@ Course Link: https://tds.s-anand.net/#/
 ## 🔄 Weekly Update Log
 | Week | What I Learned |
 |------|----------------|
-| Week 1 | |
-| Week 2 | |
+| Week 1 | Set up Linux-based development using WSL/macOS, mastered Git & SSH workflow, configured CLI tools (UV, LLM), and integrated AI tools into terminal workflow. |
+| Week 2 | Implemented containerization using Podman, built FastAPI applications, enabled inter-container networking, deployed apps (GitHub Pages, Vercel, Hugging Face), and automated workflows with GitHub Actions. |
 
 ---
 
