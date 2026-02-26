@@ -31,7 +31,8 @@ Course Link: https://tds.s-anand.net/#/
 
 
 ## 🚀 Key Learnings So Far
-###Week 1
+
+### Week 1
 
 - Set up a complete Linux-based development environment using WSL (Ubuntu 24.04 LTS).
 - Understood Linux file system structure and essential terminal commands.
@@ -44,7 +45,20 @@ Course Link: https://tds.s-anand.net/#/
 - Secured API keys using environment variables.
 - Leveraged GitHub Copilot to enhance coding productivity.
 - Built a fully CLI-driven development workflow across platforms.
-  
+
+### Week 2 
+
+- Learned core containerization concepts using Podman.
+- Ran and managed containers with port binding and volume mounting.
+- Implemented inter-container communication using custom bridge networks.
+- Containerized and executed a local LLM (Ollama + Gemma).
+- Built and connected a Flask/FastAPI backend with containerized services.
+- Understood API development using FastAPI (GET, POST, validation).
+- Practiced secure secret management with environment variables.
+- Deployed applications using GitHub Pages, Vercel, and Hugging Face Spaces.
+- Explored GitHub Codespaces for cloud-based development.
+- Automated workflows using GitHub Actions (CI/CD).
+- Completed end-to-end workflow: Develop → Containerize → Deploy → Automate.
 ---
 
 ## ❓ Doubts / Topics to Revisit
