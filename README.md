@@ -31,10 +31,20 @@ Course Link: https://tds.s-anand.net/#/
 
 
 ## 🚀 Key Learnings So Far
-- (Update weekly)
-- Example: Understood system architecture basics
-- Example: Learned how APIs work
+###Week 1
 
+- Set up a complete Linux-based development environment using WSL (Ubuntu 24.04 LTS).
+- Understood Linux file system structure and essential terminal commands.
+- Learned Git fundamentals and implemented the full version control workflow.
+- Configured SSH authentication for secure GitHub collaboration.
+- Integrated VS Code with WSL for efficient development.
+- Used Homebrew (macOS) for package management.
+- Managed Python environments using UV.
+- Installed and configured LLM CLI for terminal-based AI interaction.
+- Secured API keys using environment variables.
+- Leveraged GitHub Copilot to enhance coding productivity.
+- Built a fully CLI-driven development workflow across platforms.
+  
 ---
 
 ## ❓ Doubts / Topics to Revisit
