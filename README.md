@@ -59,6 +59,21 @@ Course Link: https://tds.s-anand.net/#/
 - Explored GitHub Codespaces for cloud-based development.
 - Automated workflows using GitHub Actions (CI/CD).
 - Completed end-to-end workflow: Develop → Containerize → Deploy → Automate.
+
+### Week 3
+
+- Understood how Large Language Models (LLMs) work using tokens, vectors, and self-attention.
+- Learned about context window limits and why chunking is necessary.
+- Gained hands-on experience making secure OpenAI API calls using `httpx`.
+- Implemented embeddings and cosine similarity for semantic search.
+- Built a mini vector database and retrieval pipeline (Generate → Store → Compare → Retrieve).
+- Implemented Retrieval Augmented Generation (RAG) to reduce hallucinations.
+- Worked with multimodal inputs (text + image using Base64 encoding).
+- Used function calling to extract structured JSON outputs.
+- Improved prompt engineering using structured and role-based prompts.
+- Debugged API errors and resolved deployment issues (FastAPI + Vercel).
+- Learned cost optimization techniques for embeddings and API usage.
+- Understood the importance of evaluation, testing, and production readiness.
 ---
 
 ## ❓ Doubts / Topics to Revisit
