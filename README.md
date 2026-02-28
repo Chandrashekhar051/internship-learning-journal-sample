@@ -87,6 +87,7 @@ Course Link: https://tds.s-anand.net/#/
 |------|----------------|
 | Week 1 | Set up Linux-based development using WSL/macOS, mastered Git & SSH workflow, configured CLI tools (UV, LLM), and integrated AI tools into terminal workflow. |
 | Week 2 | Implemented containerization using Podman, built FastAPI applications, enabled inter-container networking, deployed apps (GitHub Pages, Vercel, Hugging Face), and automated workflows with GitHub Actions. |
+| Week 3 | Understood LLM fundamentals (tokens, self-attention, context limits), implemented embeddings and cosine similarity, built a complete RAG pipeline with vector search, worked with multimodal inputs (text + image via Base64), applied structured prompt engineering and function calling, optimized API usage, and resolved deployment/debugging issues for production-ready AI systems. |
 
 ---
 
