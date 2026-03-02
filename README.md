@@ -32,7 +32,7 @@ Course Link: https://tds.s-anand.net/#/
 
 ## 🚀 Key Learnings So Far
 
-### Week 1
+### Module 1
 
 - Set up a complete Linux-based development environment using WSL (Ubuntu 24.04 LTS).
 - Understood Linux file system structure and essential terminal commands.
@@ -46,7 +46,7 @@ Course Link: https://tds.s-anand.net/#/
 - Leveraged GitHub Copilot to enhance coding productivity.
 - Built a fully CLI-driven development workflow across platforms.
 
-### Week 2 
+### Module 2 
 
 - Learned core containerization concepts using Podman.
 - Ran and managed containers with port binding and volume mounting.
@@ -60,7 +60,7 @@ Course Link: https://tds.s-anand.net/#/
 - Automated workflows using GitHub Actions (CI/CD).
 - Completed end-to-end workflow: Develop → Containerize → Deploy → Automate.
 
-### Week 3
+### Module 3
 
 - Understood how Large Language Models (LLMs) work using tokens, vectors, and self-attention.
 - Learned about context window limits and why chunking is necessary.
@@ -74,6 +74,21 @@ Course Link: https://tds.s-anand.net/#/
 - Debugged API errors and resolved deployment issues (FastAPI + Vercel).
 - Learned cost optimization techniques for embeddings and API usage.
 - Understood the importance of evaluation, testing, and production readiness.
+
+### Module 4 
+
+- Understood different data sourcing strategies for structured, semi-structured, and unstructured data.
+- Learned how REST APIs work, including HTTP methods, headers, authentication, and JSON parsing.
+- Practiced using CLI tools (curl, wget) for making HTTP requests.
+- Performed spreadsheet-based web data extraction using IMPORTHTML and IMPORTXML.
+- Scraped static websites using HTML parsing techniques.
+- Handled dynamic websites using browser automation tools (Playwright).
+- Analyzed DOM structure using Developer Tools, CSS selectors, and XPath.
+- Extracted structured data from PDFs and converted documents into Markdown.
+- Explored AI-assisted and LLM-based scraping for intelligent data extraction.
+- Understood practical challenges like rate limiting, IP blocking, and ethical scraping practices.
+- Automated data workflows using GitHub Actions and cron-based scheduling.
+- Learned data cleaning, normalization, and preprocessing for analysis-ready datasets.
 ---
 
 ## ❓ Doubts / Topics to Revisit
