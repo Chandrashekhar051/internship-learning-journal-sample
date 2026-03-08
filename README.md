@@ -89,6 +89,21 @@ Course Link: https://tds.s-anand.net/#/
 - Understood practical challenges like rate limiting, IP blocking, and ethical scraping practices.
 - Automated data workflows using GitHub Actions and cron-based scheduling.
 - Learned data cleaning, normalization, and preprocessing for analysis-ready datasets.
+
+### Module 5
+
+- Understood the importance of data preparation before performing analysis or building machine learning models.
+- Learned how to inspect datasets to understand structure, size, and potential data quality issues.
+- Practiced identifying and removing duplicate records to maintain dataset accuracy.
+- Learned techniques to detect and handle missing or incomplete data values.
+- Used shell utilities such as `grep`, `cut`, `sort`, `uniq`, `sed`, and `awk` for efficient data processing.
+- Understood how command-line tools help process large CSV or text datasets quickly.
+- Learned how to standardize and clean text data to maintain consistency in datasets.
+- Explored using text editors and regular expressions for bulk data corrections.
+- Learned how DuckDB can be used to query and transform datasets using SQL.
+- Understood how dbt helps organize and manage data transformation workflows.
+- Explored OpenRefine for identifying inconsistencies and cleaning messy datasets.
+- Learned basic preparation techniques for working with JSON, image, and audio data.
 ---
 
 ## ❓ Doubts / Topics to Revisit
