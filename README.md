@@ -119,7 +119,7 @@ Course Link: https://tds.s-anand.net/#/
 | Week 2 | Implemented containerization using Podman, built FastAPI applications, enabled inter-container networking, deployed apps (GitHub Pages, Vercel, Hugging Face), and automated workflows with GitHub Actions. |
 | Week 3 | Understood LLM fundamentals (tokens, self-attention, context limits), implemented embeddings and cosine similarity, built a complete RAG pipeline with vector search, worked with multimodal inputs (text + image via Base64), applied structured prompt engineering and function calling, optimized API usage, and resolved deployment/debugging issues for production-ready AI systems. |
 | Week 4 | Learned data sourcing techniques including API data retrieval with Python, spreadsheet scraping, CLI crawling (curl/wget), web scraping of static and dynamic sites using HTML parsing and Playwright, PDF data extraction with Tabula, and automation of scraping workflows using GitHub Actions. |
-
+| Week 5 | Learned comprehensive data preparation workflows including dataset inspection, duplicate removal, handling missing values, text standardization, and column extraction using shell utilities (`grep`, `sed`, `awk`, `cut`, `sort`, `uniq`). Practiced restructuring and aggregating datasets, preparing structured data using SQL queries in DuckDB, and organizing transformation pipelines using dbt. Explored cleaning messy datasets with OpenRefine, parsing semi-structured JSON data, and preparing multimedia datasets such as images and audio for downstream data analysis and machine learning workflows. |
 ---
 
 
