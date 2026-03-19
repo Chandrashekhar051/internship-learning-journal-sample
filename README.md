@@ -105,6 +105,25 @@ Course Link: https://tds.s-anand.net/#/
 - Understood how dbt helps organize and manage data transformation workflows.
 - Explored OpenRefine for identifying inconsistencies and cleaning messy datasets.
 - Learned basic preparation techniques for working with JSON, image, and audio data.
+
+### Module 6
+
+- Performed exploratory data analysis (EDA) to understand dataset structure, distributions, and data quality issues.
+- Applied statistical techniques such as correlation and regression to identify relationships between variables.
+- Implemented forecasting methods using historical data to estimate future trends.
+- Detected and analyzed outliers to improve data reliability and accuracy of analysis.
+- Used Excel for quick analysis including pivot tables, correlation, regression, and visualization.
+- Analyzed datasets programmatically using Python libraries like pandas and numpy.
+- Executed SQL queries for filtering, grouping, and aggregating large datasets efficiently.
+- Performed database-level analysis to handle large-scale data without loading into memory.
+- Explored datasets interactively using Datasette for quick inspection and sharing.
+- Utilized DuckDB for high-performance analytical queries directly on CSV/Parquet files.
+- Leveraged AI tools to generate insights, assist analysis, and improve exploratory workflows.
+- Conducted geospatial analysis to understand location-based patterns and spatial relationships.
+- Used QGIS and Python tools for advanced geographic data visualization and analysis.
+- Applied network analysis techniques in Python to study relationships between entities using graph structures.
+- Integrated multiple tools and techniques to extract meaningful insights from structured and semi-structured data.
+  
 ---
 
 ## ❓ Doubts / Topics to Revisit
