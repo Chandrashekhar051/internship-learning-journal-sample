@@ -27,6 +27,8 @@ Course Link: https://tds.s-anand.net/#/
 | Module 03 | LLM Concepts, Embeddings, RAG, Multimodal & Deployment | Completed |
 | Module 04 | Data Sourcing, API Integration, Web Scraping, Data Preprocessing & Automation | Completed |
 | Module 05 | Data Preparation, Cleaning, Shell Processing, DuckDB, dbt, OpenRefine, JSON & Media Data | Completed |
+| Module 06 | Data Analysis, EDA, Statistics, Python & SQL, DuckDB, Datasette, Geospatial & Network Analysis | Completed |
+| Module 07 | Data Visualization, Storytelling, Seaborn, RAWGraphs, Excel, Animation, Network & AI Visualization | Completed |
 ---
 
 
