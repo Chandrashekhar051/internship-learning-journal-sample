@@ -123,6 +123,20 @@ Course Link: https://tds.s-anand.net/#/
 - Used QGIS and Python tools for advanced geographic data visualization and analysis.
 - Applied network analysis techniques in Python to study relationships between entities using graph structures.
 - Integrated multiple tools and techniques to extract meaningful insights from structured and semi-structured data.
+
+### Module 7
+
+- Created data visualizations using tools like Excel, Seaborn, and RAWGraphs for effective data representation.
+- Applied data storytelling techniques to communicate insights clearly using visual narratives.
+- Built presentation slides using RevealJS and Markdown-based tools like Marp.
+- Developed interactive notebooks using Marimo to combine code, visuals, and explanations.
+- Visualized trends and forecasts using Excel charts and time-series plots.
+- Generated statistical visualizations such as heatmaps and distributions using Seaborn.
+- Created animated visualizations using PowerPoint and Flourish to show changes over time.
+- Built network visualizations using Kumu to represent relationships between entities.
+- Implemented actor network visualization to analyze connections and clusters in data.
+- Leveraged AI tools like ChatGPT to generate visual insights and improve data interpretation.
+- Integrated multiple visualization techniques to enhance clarity and impact of data communication.
   
 ---
 
